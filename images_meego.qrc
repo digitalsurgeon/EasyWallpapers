@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background_meego.png</file>
+        <file>images/list_background_meego.png</file>
+        <file>images/popup_background_meego.png</file>
+    </qresource>
+</RCC>

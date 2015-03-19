@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background_symbian.png</file>
+        <file>images/list_background_symbian.png</file>
+        <file>images/popup_background_symbian.png</file>
+    </qresource>
+</RCC>
